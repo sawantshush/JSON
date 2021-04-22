@@ -1,0 +1,27 @@
+.card{
+    transition: 0.3s; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   padding: 10px;
+  margin:5px 100px 10px 100px;
+ background-color:rgb(125, 231, 245);
+ border-radius: 10px; 
+ height: 80px;
+
+ 
+ 
+}
+
+.card:hover{
+    transform: translate(1px,2px);
+}
+
+h4{
+    font-weight: 800;
+    color:black;
+}
+
+h6{
+    font-weight: 400;
+    color: grey;
+   
+}
